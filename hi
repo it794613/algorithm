@@ -1,0 +1,5 @@
+https://www.tistory.com/oauth/authorize?
+client_id={1980631e9f35e7a2ccc026623efb3035
+}
+&redirect_uri={https://matdongsane.tistory.com/}
+&response_type=code
